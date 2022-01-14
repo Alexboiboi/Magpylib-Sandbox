@@ -1,0 +1,12 @@
+name: magpylib-testing-share
+channels:
+- conda-forge
+dependencies:
+- python >=3.9,<3.10
+- jupyterlab>=3.2,<4
+- retrolab>=0.3.13,<0.4
+- python >=3.9,<3.10
+- jupyterlab-link-share
+- plotly>=5.3
+- pip:
+    - git+https://github.com/magpylib/magpylib.git@compoundalex
