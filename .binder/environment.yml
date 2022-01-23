@@ -9,4 +9,4 @@ dependencies:
 - jupyterlab-link-share
 - plotly>=5.3
 - pip:
-    - git+https://github.com/magpylib/magpylib.git@Compound_alex
+    - git+https://github.com/magpylib/magpylib.git@CompoundClass_alex
