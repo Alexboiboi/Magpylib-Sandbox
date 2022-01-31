@@ -9,5 +9,5 @@ dependencies:
 - jupyterlab-link-share
 - plotly>=5.3
 #- ipywidgets
-- pip:
-    - git+https://github.com/magpylib/magpylib.git@style_model3d_rework
+#- pip:
+#    - git+https://github.com/magpylib/magpylib.git@style_model3d_rework
