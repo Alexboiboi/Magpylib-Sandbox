@@ -1,1 +1,4 @@
+mkdir -p ${HOME}/.jupyter/labconfig
+cp binder/labconfig/* ${HOME}/.jupyter/labconfig
+
 jupyter serverextension enable --py nbgitpuller --sys-prefix
