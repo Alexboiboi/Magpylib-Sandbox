@@ -8,6 +8,7 @@ dependencies:
 - jupyterlab-link-share
 - plotly>=5.3
 - ipywidgets
+- jupytext
 - pip:
     - nbgitpuller
     - git+https://github.com/magpylib/magpylib.git@development
