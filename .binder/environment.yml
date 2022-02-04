@@ -1,4 +1,4 @@
-name: magpylib-testing-share
+name: magpylib-sandbox
 channels:
 - conda-forge
 dependencies:
@@ -11,4 +11,4 @@ dependencies:
 - jupytext
 - pip:
     - nbgitpuller
-    - git+https://github.com/magpylib/magpylib.git@development
+    - git+https://github.com/magpylib/magpylib.git@master
