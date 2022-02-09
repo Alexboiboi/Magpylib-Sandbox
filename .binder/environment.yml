@@ -11,4 +11,4 @@ dependencies:
 - jupytext
 - pip:
     - nbgitpuller
-    - git+https://github.com/magpylib/magpylib.git@master
+    - git+https://github.com/magpylib/magpylib.git@main
