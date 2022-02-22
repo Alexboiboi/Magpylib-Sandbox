@@ -1,6 +1,6 @@
 # Magpylib-Sandbox
 
-This repository is an environment sanbox for testing the magpylib master branch.
+This repository is an environment sanbox for testing the magpylib main branch.
 
 The purpose of this repository is to de-couple the content of a repository from the environment that is needed to run it. This allows us to update the content of a repo without needing to re-build the Binder needed for it. (More infos [here](https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922))
 
