@@ -7,8 +7,10 @@ dependencies:
 - retrolab>=0.3.13,<0.4
 - jupyterlab-link-share
 - plotly>=5.3
+- pandas
 - ipywidgets
 - jupytext
 - pip:
+    - logguru
     - nbgitpuller
     - git+https://github.com/magpylib/magpylib.git@main
