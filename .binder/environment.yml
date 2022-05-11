@@ -11,6 +11,6 @@ dependencies:
 - ipywidgets
 - jupytext
 - pip:
-    - logguru
+    - loguru
     - nbgitpuller
     - git+https://github.com/magpylib/magpylib.git@main
